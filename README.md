@@ -26,9 +26,7 @@ Here are some ideas about me:
     <li>
       OS: <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="26" height="26" alt="Linux" /></a>Linux</li>
     <li>
-      Data Processing: ![Pandas_logo svg](https://github.com/WeichunAuto/WeichunAuto/assets/39370733/21136680-cf45-4e10-aa8f-b02bf124e8ae)
-
-
+      Data Processing: <a><img src="https://github.com/WeichunAuto/WeichunAuto/blob/main/Pandas_logo.svg.png" width="80" height="32" /></a>Pandas, <a><img src="https://github.com/WeichunAuto/WeichunAuto/blob/main/numpy.png" width="36" height="36"/></a>NumPy, <a><img src="https://github.com/WeichunAuto/WeichunAuto/blob/main/Matplotlib.png" width="26" height="26"/></a>Matplotlib
     </li>
     <li>
       Deep Learning: <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="26" height="26" alt="PyTorch" /></a>PyTorch, Pandas, LSTM, GRU, Transformer
