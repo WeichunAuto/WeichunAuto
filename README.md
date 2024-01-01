@@ -34,3 +34,5 @@ Here are some ideas about me:
   </ul>
 
 ### Summary
+
+With 4 years of experience in software development, and 10 years of product management, passionate about programming, algorithms, and AI domains, and keen to learn cutting-edge knowledge, develop systems, and agile team collaboration.
