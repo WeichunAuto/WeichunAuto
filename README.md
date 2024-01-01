@@ -1,4 +1,4 @@
-## Kia Ora 👋, I'm Weichun
+### Kia Ora 👋, I'm Weichun
 
 
 Here are some ideas about me:
