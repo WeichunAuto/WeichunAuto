@@ -32,4 +32,5 @@ Here are some ideas about me:
       Deep Learning: <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="26" height="26" alt="PyTorch" /></a>PyTorch, Pandas, LSTM, GRU, Transformer
     </li>
   </ul>
-  
+
+### Summary
