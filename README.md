@@ -9,7 +9,7 @@ Here are some ideas about me:
 - 🎯 I'm currently open to exciting full-time job opportunities after June 2024, as a full-stack, Java, or Python developer.
 
 ### Connect with me
-- 📫 LinkedIn: <a href='www.linkedin.com/in/weichun-wang'>Weichun's LinkedIn<a/>
+- 📫 LinkedIn: <a href='https://www.linkedin.com/in/weichun-wang'>Weichun's LinkedIn<a/>
 - 📥 Email: seven.wangweichun@outlook.com
 
 ### Technical Skills
