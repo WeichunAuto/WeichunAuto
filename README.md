@@ -35,4 +35,4 @@ Here are some ideas about me:
 
 ### Summary
 
-With 4 years of experience in software development, and 10 years of product management, passionate about programming, algorithms, and AI domains, and keen to learn cutting-edge knowledge, develop systems, and agile team collaboration.
+Product manager with a full stack technical background and passionate about programming, algorithms, deep learning, and AI domains, having 10 years of experience in product design and agile management in both ToC and ToB IT industries, I have been responsible for the strategies, product vision, user and market insights, and the life cycle of product design and development in new business models and innovative products.
