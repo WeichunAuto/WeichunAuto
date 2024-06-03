@@ -3,8 +3,8 @@
 
 Here are some ideas about me:
 
-- 🎓 I'm completing my Master's degree in Computer and Information Science at AUT.
-- 👨🏼‍💻 I’m currently researching DL: LSTM, GRU, Transformer, MLP, SVM for my research project.
+- 🎓 I'm completing the last semester of my Master's degree in Computer and Information Science and will graduate in June 2024 at AUT.
+- 👨🏼‍💻 I am a product manager, passionate about technology and solving customer problems with innovative products.
 - 👯 I’m working on this project <a href='https://github.com/Ubiweb-lab/mmVital.git'>mmVital</a>, using DL models to predict vital signs based on mmWave Radar.
 - 🎯 I'm currently open to exciting full-time job opportunities after June 2024, as a product manager.
 
