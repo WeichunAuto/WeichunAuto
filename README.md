@@ -3,7 +3,7 @@
 
 Here are some ideas about me:
 
-- 🎓 I'm completing the last semester of my Master's degree in Computer and Information Science and will graduate in June 2024 at AUT.
+- 🎓 I have completed the last semester of my Master's degree in Computer and Information Science and will graduate in June 2024 at AUT.
 - 👨🏼‍💻 I am a product manager, passionate about technology and solving customer problems with innovative products.
 - 👯 I’m working on this project <a href='https://github.com/Ubiweb-lab/mmVital.git'>mmVital</a>, using DL models to predict vital signs based on mmWave Radar.
 - 🎯 I'm currently open to exciting full-time job opportunities after June 2024, as a product manager.
@@ -17,7 +17,7 @@ Here are some ideas about me:
   <img align="left" width="48%" height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeichunAuto&size_weight=0.5&count_weight=0.5&layout=compact" />
   <img  align="left" width="47%" height=190 src="https://github-readme-stats.vercel.app/api?username=WeichunAuto&show_icons=true" />
 
-&nbsp;&nbsp;
+&nbsp;
 
 ### Technical Skills
   <ul>
