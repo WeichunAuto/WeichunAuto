@@ -19,7 +19,7 @@ Here are some ideas about me:
 </div>
 &nbsp; &nbsp;&nbsp;
 
-
+<br />
 ### Technical Skills
   <ul>
     <li>
