@@ -14,10 +14,10 @@ Here are some ideas about me:
 
 ### I'm not a dev, but here are my Stats
 <div width="100%" border=1>
-  <img align="left" width="47%" height=215 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeichunAuto&size_weight=0.5&count_weight=0.5&layout=donut" />
-  <img  align="left" width="47%" height=215 src="https://github-readme-stats.vercel.app/api?username=WeichunAuto&show_icons=true" />
+  <img align="left" width="47%" height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeichunAuto&size_weight=0.5&count_weight=0.5&layout=donut" />
+  <img  align="left" width="47%" height=210 src="https://github-readme-stats.vercel.app/api?username=WeichunAuto&show_icons=true" />
 </div>
-&nbsp; 
+&nbsp; &nbsp;
 
 ### Technical Skills
   <ul>
