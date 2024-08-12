@@ -39,7 +39,3 @@ Here are some ideas about me:
       Deep Learning: <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="22" height="22" alt="PyTorch" /></a>PyTorch, Pandas, LSTM, GRU, Transformer, MLP, SVM
     </li>
   </ul>
-
-### Summary
-
-Product manager with a full stack technical background and passionate about programming, algorithms, deep learning, and AI domains, having 10 years of experience in product design and agile management in both ToC and ToB IT industries, I have been responsible for the strategies, product vision, user and market insights, and the life cycle of product design and development in new business models and innovative products.
