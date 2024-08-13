@@ -12,7 +12,7 @@ Here are some ideas about me:
 - 📫 LinkedIn: <a href='https://www.linkedin.com/in/weichun-wang'>Weichun's LinkedIn<a/>
 - 📥 Email: seven.wangweichun@outlook.com
 
-### I'm not a dev, but it's my love, here are my Stats
+### Coding and exploring new technologies are my love, here are my Stats
 
   <img align="left" width="48%" height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeichunAuto&size_weight=0.5&count_weight=0.5&layout=compact" />
   <img  align="left" width="47%" height=190 src="https://github-readme-stats.vercel.app/api?username=WeichunAuto&show_icons=true" />
