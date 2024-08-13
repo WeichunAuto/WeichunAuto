@@ -4,7 +4,7 @@
 Here are some ideas about me:
 
 - 🎓 I have completed my Master's study in Computer and Information Science at AUT.
-- 👨🏼‍💻 I am a product manager, passionate about technology and solving customer problems with innovative products.
+- 👨🏼‍💻 I am a developer with product background, passionate about technology and solving customer problems with innovative products.
 - 👯 I’m working on this project <a href='https://github.com/Ubiweb-lab/mmVital.git'>mmVital</a>, using DL models to predict vital signs based on mmWave Radar.
 - 🎯 I'm currently open to exciting full-time job opportunities to start fresh based in New Zealand.
 
