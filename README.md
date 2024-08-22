@@ -9,7 +9,7 @@ Here are some ideas about me:
 - 🎯 I'm currently open to exciting full-time job opportunities to start fresh based in New Zealand.
 
 ### Connect with me
-- 📫 LinkedIn: <a href='https://www.linkedin.com/in/weichun-wang'>Weichun's LinkedIn<a/>
+- 📫 LinkedIn: <a href='https://www.linkedin.com/in/weichun-wang'>Bobby's LinkedIn<a/>
 - 📥 Email: seven.wangweichun@outlook.com
 
 ### Coding and exploring new technologies are my love, here are my Stats
