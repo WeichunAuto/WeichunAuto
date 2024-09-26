@@ -10,7 +10,7 @@ Here are some ideas about me:
 
 ### Connect with me
 - 📫 LinkedIn: <a href='https://www.linkedin.com/in/weichun-wang'>Bobby's LinkedIn<a/>
-- 📥 Email: seven.wangweichun@outlook.com
+- 📥 Email: bobby.wangwc@outlook.com
 
 ### Coding and exploring new technologies are my love, here are my Stats
 
