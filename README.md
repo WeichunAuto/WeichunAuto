@@ -14,7 +14,9 @@ Here are some ideas about me:
 
 ### Coding and exploring new technologies are my love, here are my Stats
 
-  <img align="left" width="48%" height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeichunAuto&hide=Makefile&size_weight=0.5&count_weight=0.6&layout=compact" />
+  
+  <img align="left" width="48%" height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeichunAuto&layout=compact&hide=Makefile&langs_count=10" />
+
   <img  align="left" width="47%" height=190 src="https://github-readme-stats.vercel.app/api?username=WeichunAuto&show_icons=true&rank_icon=github" />
   
 
