@@ -15,10 +15,11 @@ Here are some ideas about me:
 
   
   <img align="left" width="48%" height="190"
-     src="https://git-stats.jojoo.dev/api/top-langs/?username=WeichunAuto&layout=compact&hide=Makefile,DTrace&langs_count=10" />
+     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WeichunAuto&layout=compact&hide=Makefile,DTrace&langs_count=10" />
 
 <img align="left" width="47%" height="190"
-     src="https://git-stats.jojoo.dev/api?username=WeichunAuto&show_icons=true&rank_icon=github" />
+     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WeichunAuto&show_icons=true&rank_icon=github" />
+
 
 
   
