@@ -16,9 +16,9 @@ Here are some ideas about me:
   
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WeichunAuto&theme=github" width="100%" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WeichunAuto&theme=github" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WeichunAuto&theme=github" width="49%" />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WeichunAuto&theme=github" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WeichunAuto&theme=github" width="49.5%" />
 </p>
 
 
